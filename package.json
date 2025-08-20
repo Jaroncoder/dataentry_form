@@ -1,0 +1,16 @@
+{
+  "name": "treasure-hunt-form",
+  "version": "1.0.0",
+  "description": "A treasure hunt form with 8 rounds for data collection",
+  "main": "treasure_hunt_form.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["treasure-hunt", "form", "game", "vercel"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
